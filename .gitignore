@@ -1,0 +1,26 @@
+# 仮想環境
+venv/
+
+# Python
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# モデル・キャッシュ
+*.pt
+*.pth
+.cache/
+
+# Hugging Face
+.huggingface/
+
+# Python環境
+.python-version
