@@ -127,6 +127,12 @@ streamlit run streamlit_app.py
 
 ---
 
+## デモアプリ
+
+[Streamlit Community Cloudでアプリを試す](https://food-image-similarity-search-aumb2hkwrfm654nke3c43b.streamlit.app/)
+
+---
+
 ## 工夫した点
 
 * CLIPを利用して画像を512次元の特徴ベクトルへ変換
